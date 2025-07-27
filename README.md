@@ -6,7 +6,7 @@ $```pkg update && upgrade -y```
 
 $```pkg install git -y```
 
-$```pkg install python```
+$```pkg install python -y```
 
 $```git clone https://github.com/brosay-kh/Report-fb-page```
 
