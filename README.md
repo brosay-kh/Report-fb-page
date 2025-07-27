@@ -6,6 +6,8 @@ $```pkg update && upgrade -y```
 
 $```pkg install git -y```
 
+$```pkg install python```
+
 $```git clone https://github.com/brosay-kh/Report-fb-page```
 
 $```python reporter.py```
