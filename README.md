@@ -8,6 +8,9 @@ $```pkg install git -y```
 
 $```pkg install python -y```
 
+$```curl```
+
 $```git clone https://github.com/brosay-kh/Report-fb-page```
 
-$```python reporter.py```
+$```chmod +x reporter.sh
+./reporter.sh```
